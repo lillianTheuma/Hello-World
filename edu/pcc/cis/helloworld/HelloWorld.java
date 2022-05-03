@@ -1,4 +1,8 @@
+// Author: Lillian Theuma
+// Date: May 2, 2022
+
 package edu.pcc.cis.helloworld;
+
 
 public class HelloWorld {
     public void sayHello() {
